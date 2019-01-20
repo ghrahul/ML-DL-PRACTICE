@@ -3,7 +3,7 @@
 * In deep learning we basically define a computation graph in Python and tensorflow takes the graph perform its computation using optimized C++   code.
 * [Keras](!http://keras.io/)
 * [Pretty Tensor](!https://github.com/google/prettytensor/)
-* [Cloud service to run TensorFlow graphs](https://cloud.google.com/ml)
+* [Cloud service to run TensorFlow graphs](!https://cloud.google.com/ml)
 * [TensorFlow](!https://www.tensorflow.org/)
 * [TensorFlow Github](https://github.com/jtoy/awesome-tensorflow)
 * [Google Group](!http://goo.gl/N7kRF9)
