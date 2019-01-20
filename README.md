@@ -2,7 +2,7 @@
 
 * In deep learning we basically define a computation graph in Python and tensorflow takes the graph perform its computation using optimized C++   code.
 * Library             
-    * Caffe Python,       
+    * Caffe Python       
     * Deeplearning4j      
     * H2O                 
     * MXNet               
