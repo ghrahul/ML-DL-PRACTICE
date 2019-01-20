@@ -1,6 +1,6 @@
 # Important Notes and Resorces
 
-* [Video Tutorial](!https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+* [Video Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 * In deep learning we basically define a computation graph in Python and tensorflow takes the graph perform its computation using optimized C++   code.
 * Library             
     * Caffe Python       
