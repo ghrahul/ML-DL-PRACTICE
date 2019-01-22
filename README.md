@@ -14,6 +14,8 @@
     ```
 * In deep learning we basically define a computation graph in Python and tensorflow takes the graph perform its computation using optimized C++   code.
 * A TensorFlow program is typically split into two parts: the first part builds a computation graph (this is called the construction phase),and   the second part runs it (this is the execution phase).
+* When there is one layer we call it NEURAL NETWORK.
+* When there is multiple layers we call it DEEP NEURAL NETWORK.
 * Library             
     * Caffe Python       
     * Deeplearning4j      
