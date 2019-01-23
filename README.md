@@ -1,6 +1,6 @@
 # Important Notes and Resorces
 
-* [Video Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+* [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
 * [100 days of ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Practical AI using Pytorch](https://github.com/practicalAI/test)
