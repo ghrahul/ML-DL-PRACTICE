@@ -9,6 +9,14 @@ eliminating a lot of bugs.
 * broadcasting is extremely useful
 * Vectorization is very important in deep learning. It provides computational efficiency and clarity.
 
+* Common steps for pre-processing a new dataset are:
+
+    * Figure out the dimensions and shapes of the problem (m_train, m_test, num_px, ...)
+    * Reshape the datasets such that each example is now a vector of size (num_px * num_px * 3, 1)
+    * "Standardize" the data
+
+
+
 ## Activation Function
 Activation functions are really important for a Artificial Neural Network to learn and make sense of something really complicated and Non-linear complex functional mappings between the inputs and response variable.They introduce non-linear properties to our Network.Their main purpose is to convert a input signal of a node in a A-NN to an output signal. That output signal now is used as a input in the next layer in the stack.
 
