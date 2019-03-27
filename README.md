@@ -8,6 +8,7 @@
 
 * [Data Science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [CheatSheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * To run tensorboard
     ``` 
     tensorboard --logdir=data/ --host localhost --port 8088
