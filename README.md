@@ -9,21 +9,3 @@
 * [Data Science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [CheatSheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-* To run tensorboard
-    ``` 
-    tensorboard --logdir=data/ --host localhost --port 8088
-    ```
-* In deep learning we basically define a computation graph in Python and tensorflow takes the graph perform its computation using optimized C++   code.
-* A TensorFlow program is typically split into two parts: the first part builds a computation graph (this is called the construction phase),and   the second part runs it (this is the execution phase).
-* When there is one layer we call it NEURAL NETWORK.
-* When there is multiple layers we call it DEEP NEURAL NETWORK.
-* Library             
-    * Caffe Python       
-    * Deeplearning4j      
-    * H2O                 
-    * MXNet               
-    * TensorFlow 
-    * Theano 
-    * Torch 
-
- 
