@@ -16,3 +16,4 @@
 * [Optuna Hyperparameter Tuning Framework](https://optuna.org/)
 * [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
 * [Logistic Regression](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
+* [Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
