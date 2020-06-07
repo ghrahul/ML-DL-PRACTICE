@@ -1,7 +1,5 @@
 # Important Notes and Resorces
 
-* [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
-
 * [100 days of ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Practical AI using Pytorch](https://github.com/practicalAI/test)
 * [AI DL AND ML tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
@@ -18,3 +16,6 @@
 * [Logistic Regression](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 * [Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [AI Engineering by Srivatsan Srinivasan](https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw)
+* [Distributed Training with Tensorflow](https://www.tensorflow.org/guide/distributed_training)
+* [Deep Learning Resources and Study Path For Aspiring Data Scientist by Srivatsan Srinivasan](https://www.linkedin.com/pulse/deep-learning-resources-study-path-aspiring-data-srivatsan-srinivasan/)
+* [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
