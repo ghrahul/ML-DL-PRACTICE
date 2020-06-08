@@ -1,4 +1,4 @@
-# Important Notes and Resorces
+# Important Notes and Resources
 
 * [100 days of ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Practical AI using Pytorch](https://github.com/practicalAI/test)
