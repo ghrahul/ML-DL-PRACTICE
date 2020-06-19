@@ -19,3 +19,4 @@
 * [Distributed Training with Tensorflow](https://www.tensorflow.org/guide/distributed_training)
 * [Deep Learning Resources and Study Path For Aspiring Data Scientist by Srivatsan Srinivasan](https://www.linkedin.com/pulse/deep-learning-resources-study-path-aspiring-data-srivatsan-srinivasan/)
 * [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+* [Gentle Introduction to K-Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
