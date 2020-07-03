@@ -20,3 +20,4 @@
 * [Deep Learning Resources and Study Path For Aspiring Data Scientist by Srivatsan Srinivasan](https://www.linkedin.com/pulse/deep-learning-resources-study-path-aspiring-data-srivatsan-srinivasan/)
 * [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 * [Gentle Introduction to K-Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
+* [Understanding Input and Output shapes in LSTM | Keras](https://medium.com/@shivajbd/understanding-input-and-output-shape-in-lstm-keras-c501ee95c65e)
