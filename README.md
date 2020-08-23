@@ -21,3 +21,6 @@
 * [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 * [Gentle Introduction to K-Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
 * [Understanding Input and Output shapes in LSTM | Keras](https://medium.com/@shivajbd/understanding-input-and-output-shape-in-lstm-keras-c501ee95c65e)
+* [http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/][the-foundations-of-algorithmic-bias]
+* [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf][A Few Useful Things to Know about Machine Learning]
+* [https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511][genetic-test-for-autism-refuted-38511]
