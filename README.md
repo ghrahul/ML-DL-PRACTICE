@@ -21,13 +21,13 @@
 * [Sentdex Tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 * [Gentle Introduction to K-Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
 * [Understanding Input and Output shapes in LSTM | Keras](https://medium.com/@shivajbd/understanding-input-and-output-shape-in-lstm-keras-c501ee95c65e)
-* [http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/][the-foundations-of-algorithmic-bias]
-* [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf][A Few Useful Things to Know about Machine Learning]
-* [https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511][genetic-test-for-autism-refuted-38511]
-* [https://techcrunch.com/2017/04/13/neural-networks-made-easy/][neural-networks-made-easy]
-* [https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/][deep-learning-nutshell-core-concepts]
-* [https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html][assisting-pathologists-in-detecting.html]
-* [https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931][Data Leakage]
-* [https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf][Leakage in Data Mining: Formulation, Detection, and Avoidance]
-* [https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839][The Leakage (and how it was fixed)]
-* [http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf][Rules of ML Best Practices]
+* [http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/](the-foundations-of-algorithmic-bias)
+* [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf](A Few Useful Things to Know about Machine Learning)
+* [https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511](genetic-test-for-autism-refuted-38511)
+* [https://techcrunch.com/2017/04/13/neural-networks-made-easy/](neural-networks-made-easy)
+* [https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/](deep-learning-nutshell-core-concepts)
+* [https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html](assisting-pathologists-in-detecting.html)
+* [https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931](Data Leakage)
+* [https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf](Leakage in Data Mining: Formulation, Detection, and Avoidance)
+* [https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839](The Leakage (and how it was fixed))
+* [http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf](Rules of ML Best Practices)
